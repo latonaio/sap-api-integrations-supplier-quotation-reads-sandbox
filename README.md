@@ -19,13 +19,13 @@ sap-api-integrations-supplier-quotation-reads は、外部システムがクラ�
 sap-api-integrations-supplier-quotation-reads が対応する APIサービス は、次のものです。
 
 * APIサービス概要説明 URL: https://api.sap.com/api/CE_SUPPLIERQUOTATION_0001/overview   
-* APIサービス名(=baseURL): api_warehouse_resource_2/srvd_a2x/sap/warehouseresource/0001  
+* APIサービス名(=baseURL): api_supplierquotation_2/srvd_a2x/sap/supplierquotation/0001  
 
 ## 本レポジトリ に 含まれる API名
 sap-api-integrations-supplier-quotation-reads には、次の API をコールするためのリソースが含まれています。  
 
-* SupplierQuotation（仕入先見積データ - ヘッダ）
-* Item（仕入先見積データ - 明細）
+* SupplierQuotation（仕入先見積 - ヘッダ）
+* Item（仕入先見積 - 明細）
 
 ## API への 値入力条件 の 初期値
 sap-api-integrations-supplier-quotation-reads において、API への値入力条件の初期値は、入力ファイルレイアウトの種別毎に、次の通りとなっています。  
