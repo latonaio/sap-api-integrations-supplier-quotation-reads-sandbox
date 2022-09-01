@@ -96,6 +96,6 @@
 	},
 	"api_schema": "SupplierQuotation",
 	"accepter": ["Item"],
-	"supplier_quotation_code": "",
+	"supplier_quotation_no": "",
 	"deleted": false
 }

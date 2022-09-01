@@ -150,6 +150,6 @@ type SDC struct {
 	} `json:"SupplierQuotation"`
 	APISchema             string   `json:"api_schema"`
 	Accepter              []string `json:"accepter"`
-	SupplierQuotationCode string   `json:"supplier_quotation_code"`
+	SupplierQuotationNo   string   `json:"supplier_quotation_no"`
 	Deleted               bool     `json:"deleted"`
 }
