@@ -24,7 +24,7 @@ func main() {
 
 	caller.AsyncGetSupplierQuotation(
 		inoutSDC.SupplierQuotation.SupplierQuotation,
-		inoutSDC.SupplierQuotation.Item.SupplierQuotationItem,
+		inoutSDC.SupplierQuotation.SupplierQuotationItem.SupplierQuotationItem,
 		accepter,
 	)
 }

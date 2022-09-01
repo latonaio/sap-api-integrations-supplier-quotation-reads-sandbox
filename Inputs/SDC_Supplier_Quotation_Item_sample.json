@@ -3,7 +3,7 @@
 	"result": true,
 	"redis_key": "abcdefg",
 	"filepath": "/var/lib/aion/Data/rededge_sdc/abcdef.json",
-	"Header": {
+	"SupplierQuotation": {
 		"SupplierQuotation": "",             
 		"CompanyCode": "",                   
 		"PurchasingDocumentCategory": "",    
@@ -44,7 +44,7 @@
 		"QtnLifecycleStatus": "",            
 		"FollowOnDocumentCategory": "",      
 		"PurgDocFollowOnDocumentType": "",
-		"Item": {
+		"SupplierQuotationItem": {
 			"SupplierQuotation":"",              
 			"SupplierQuotationItem":"",          
 			"PurchasingDocumentCategory":"",     

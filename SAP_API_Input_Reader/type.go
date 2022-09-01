@@ -98,7 +98,7 @@ type SDC struct {
 		QtnLifecycleStatus             string `json:"QtnLifecycleStatus"`
 		FollowOnDocumentCategory       string `json:"FollowOnDocumentCategory"`
 		PurgDocFollowOnDocumentType    string `json:"PurgDocFollowOnDocumentType"`
-		Item                           struct {
+		SupplierQuotationItem          struct {
 			SupplierQuotation              string `json:"SupplierQuotation"`
 			SupplierQuotationItem          string `json:"SupplierQuotationItem"`
 			PurchasingDocumentCategory     string `json:"PurchasingDocumentCategory"`
